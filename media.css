@@ -1,0 +1,45 @@
+@media(max-width:1000px){
+    .header-title{
+        font-size: 40px;
+    }
+    .section-title{
+        font-size: 30px;
+    }
+    .differences-content{
+        width:100%;
+    }
+    .advantages-card{
+        width: 100%;
+        display: block;
+        margin-right: 0;
+    }
+   .phones-card{
+        display: block;
+        width: 100%;
+    }
+    .materials-card{
+        display: display-block;
+        width: 100%;
+        margin-right: 0;
+    }
+    .materials{
+        background: black ;
+        background-attachment: scroll;
+    }
+    .materials-content{
+        width: 100%;
+    }
+    .security-bg{
+        width: 100%;
+    }
+    .security-content{
+        width: 100%;
+    }
+    .footer-card{
+        width: 100%;
+        display:block;
+    }
+    .header{
+        background-attachment: scroll;
+    }
+}
